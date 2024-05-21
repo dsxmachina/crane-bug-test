@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "dummy",
+  "proc_macro"
+]
+
+resolver = "2"
